@@ -1,0 +1,41 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+ENV/
+env/
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache files
+.cache/
+*.log
+
+# Streamlit configuration files
+.streamlit/
+
+# Python environment files
+*.env
+*.venv
+.envrc
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Pytest cache
+.pytest_cache/
+
+# Package directories
+pip-wheel-metadata/
